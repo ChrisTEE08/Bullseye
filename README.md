@@ -1,1 +1,3 @@
-# Bullseye
+# Bullseye 
+- practice
+- git
